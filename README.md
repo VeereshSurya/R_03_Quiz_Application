@@ -1,6 +1,6 @@
 # R_03_Quiz_Application
 
-Its a very simple Quiz application. see project demo [Here](https://hopeful-visvesvaraya-9669ad.netlify.app/)
+Its a very simple Quiz application. see project demo [Here](https://r-03-quiz-application.netlify.app/)
 
 # Getting Started with Create React App
 
